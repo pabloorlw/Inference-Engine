@@ -1,0 +1,9 @@
+7
+R1: Si ant2o3 Entonces exp, FC=0.5
+R2: Si ant3oMas Entonces exp, FC=0.9
+R3: Si cond2o3 Entonces can, FC=0.5
+R4: Si cond3oMas Entonces can, FC=1
+R5: Si exp y noSolo Entonces caus, FC=-0.5
+R6: Si can Entonces caus, FC=0.5
+R7: Si jov y alchl Entonces caus, FC=0.7
+

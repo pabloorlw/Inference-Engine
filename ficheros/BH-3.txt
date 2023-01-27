@@ -1,0 +1,10 @@
+7
+jov, FC=0.4
+ant2o3, FC=1
+ant3oMas, FC=-1
+cond2o3, FC=-1
+cond3oMas, FC=1
+noSolo, FC=-1
+alchl, FC=0.5
+Objetivo
+caus

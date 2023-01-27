@@ -1,0 +1,10 @@
+7
+mira, FC=0.8
+suda, FC=0.3
+niega, FC=0.5
+sorprendido, FC=1
+tartamudea, FC=0.6
+colabora, FC=0.2
+violento, FC=0.2
+Objetivo
+culpable

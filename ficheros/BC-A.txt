@@ -1,0 +1,6 @@
+5
+R1: Si mira o suda Entonces miente, FC=0.7
+R2: Si niega y sorprendido Entonces miente, FC=-0.6
+R3: Si tartamudea Entonces miente, FC=0.5
+R4: Si colabora Entonces culpable, FC=-0.4
+R5: Si miente y violento Entonces culpable, FC=0.9
